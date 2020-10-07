@@ -1,0 +1,95 @@
+html{
+    background-color: silver;
+}
+
+.center{
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rolam {
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.tanc {
+    height: 150px;
+    width: 200px;
+    margin-left: 55px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    box-shadow: 3px 3px 7px;
+    
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 70px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 780px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    height: 274px;
+    width: 622px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+tr {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 36px;
+}
+
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 95px;
+    height: 36px;
+    text-align: center;
+
+}
